@@ -3,7 +3,7 @@ Classification of authors using SVM
 
 TASK 1
 (ml1.ipynb):
-Load the 4 files separately and check the Test and Train accuracy without changing the parameters. Made a table for that and understood how it changes with increasing the dataset.
+Loaded the 4 files separately and checked the Test and Train accuracy without changing the parameters. Made a table for this and understood how it changes with increasing the dataset.
 
 TASK 2
 (ml2.ipynb):
